@@ -11,7 +11,7 @@
         </li>
     @else
         <li>
-            <a href="{{route('logout')}}">Logout
+            <a href="{{route('logoff')}}">Logoff
                 <span class=glyphicon glyphicon-log-out></span>
         </li>
     @endif
